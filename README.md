@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/sRwOgKp.png" width="600"/>
+<img src="https://i.imgur.com/VR9uM0m.jpeg" width="600"/>
 
 
 # Lunar Client Offline
