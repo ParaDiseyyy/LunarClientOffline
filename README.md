@@ -41,16 +41,15 @@ An offline Lunar Client mod for **Minecraft 1.21.X**.
 
 This project is unofficial and is not affiliated with or endorsed by Lunar Client or Mojang Studios.
 
-Kaspersky OpenTip
-<a href="https://opentip.kaspersky.com/B3135509AB6F4B95B2C9C845BB09CA2EFABA2963B36AB03016378917ED0EF1D2/results?tab=upload">
-  <img src="https://i.imgur.com/6ZBgNqt.png" width="400"/>
-</a>
+## Security Scan Results
 
-Scan result: Kaspersky OpenTip 
+### Kaspersky OpenTip
 
-VirusTotal
-<a href="https://www.virustotal.com/gui/file/c81fe0cfd52c8f5dfb1f8f076f2a600d030ddf60592ceba6871063f3769db501">
-  <img src="https://i.imgur.com/bZPcicv.png" width="400"/>
-</a>
+<img src="https://i.imgur.com/6ZBgNqt.png" alt="Kaspersky OpenTip Scan Result" width="500"/>
 
-Scan result: VirusTotal
+---
+
+### VirusTotal
+
+<img src="https://i.imgur.com/bZPcicv.png" alt="VirusTotal Scan Result" width="500"/>
+
